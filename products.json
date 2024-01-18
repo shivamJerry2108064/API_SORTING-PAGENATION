@@ -1,0 +1,53 @@
+[
+    {
+        "name":"iphone",
+        "price":114000,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"iphone10",
+        "price":154000,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"Sonata watch",
+        "price":44400,
+        "featured":true,
+        "company":"sonata"
+    },
+    {
+        "name":"XPS",
+        "price":53400,
+        "featured":true,
+        "company":"dell"
+    },
+    {
+        "name":"Galaxy S23",
+        "price":73000,
+        "company":"samsung"
+    },
+    {
+        "name":"Galaxy S24",
+        "price":75000,
+        "company":"samsung"
+    },
+    {
+        "name":"Rysen 5",
+        "price":47000,       
+        "company":"acer"
+    },
+    {
+        
+            "name":"Tysen 5",
+            "price":45000,       
+            "company":"acer"
+    },
+    
+    {
+        "name":"Realme Tab X",
+        "price":63000,
+        "company":"realme"
+    }
+]
